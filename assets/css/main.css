@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  font-family: "Alternate Gothic", sans-serif;
+  text-rendering: geometricprecision;
+}
+body {
+  @apply bg-white;
+}
