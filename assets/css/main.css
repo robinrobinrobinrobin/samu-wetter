@@ -9,3 +9,9 @@ html {
 body {
   @apply bg-white;
 }
+a {
+  @apply transition-opacity duration-300;
+}
+a:hover {
+  @apply opacity-50;
+}
