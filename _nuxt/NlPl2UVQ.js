@@ -1,1 +1,0 @@
-import{f}from"./CxYJgpPD.js";import{J as c,m as a,f as l,g as o}from"./CE6pArCp.js";const i=(e,r,t,...n)=>e[r]?c({...e,[r]:()=>f(e[r](),t==null?void 0:t.unwrap)},r,t,...n):c(e,r,t,...n),u={};function _(e,r){return l(),o("div",null,[i(e.$slots,"title")])}const k=a(u,[["render",_]]);export{k as default};
