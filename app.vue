@@ -1,6 +1,9 @@
 <template>
   <NuxtLayout>
-    <div class="flex flex-col min-h-screen">
+    <div
+      class="flex flex-col min-h-screen"
+      :class="route.path === '/' || route.path.includes('projects') ? 'bg-black' : ''"
+    >
       <Header />
       <NuxtPage />
       <Footer />
@@ -8,6 +11,7 @@
   </NuxtLayout>
 </template>
 <script setup lang="ts">
+const route = useRoute();
 useSeoMeta({
   title: "Samu Wetter",
   ogTitle: "Samu Wetter",
