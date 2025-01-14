@@ -11,8 +11,9 @@
 useSeoMeta({
   title: "Samu Wetter",
   ogTitle: "Samu Wetter",
-  description: "This is my amazing site, let me tell you all about it.",
-  ogDescription: "This is my amazing site, let me tell you all about it.",
-  ogImage: "https://example.com/image.png",
+  description:
+    "Samu Wetter ist ein Filmemacher aus Zürich. Er realisiert Projekte in den Bereichen Werbung, Brand-Film und Event gerne ganzheitlich: vom Filmen über den Schnitt und bis hin zum Colorgrading.",
+  ogDescription: "Samu Wetter ist ein weltbekannter Filmemacher und Fotograf.",
+  ogImage: "/og-image.png",
 });
 </script>

@@ -6,7 +6,7 @@
         autoplay
         loop
         muted
-        class="hover:opacity-50 transition-opacity duration-300"
+        class="group-hover:opacity-50 transition-opacity duration-300"
         @mouseover="handleMouseOver"
         @mouseleave="handleMouseLeave"
       ></video>
