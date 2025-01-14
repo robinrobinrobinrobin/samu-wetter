@@ -1,1 +1,0 @@
-import{m as t,g as s,h as n,f as o}from"./CA48A3fz.js";const a={},c={class:"p-6 text-2xl max-w-4xl"};function r(l,e){return o(),s("div",c,e[0]||(e[0]=[n("p",null,"Text",-1)]))}const _=t(a,[["render",r]]);export{_ as default};
