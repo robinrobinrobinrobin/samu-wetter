@@ -1,6 +1,8 @@
 <template>
   <div>
-    <ContentSlot name="title" />
+    <div>
+      <ContentSlot name="title" />
+    </div>
   </div>
 </template>
 
