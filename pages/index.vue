@@ -2,7 +2,7 @@
   <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-2 bg-black pb-2">
     <NuxtLink v-for="project in projects" class="relative group" :to="project._path">
       <video
-        src="/videos/placeholder.mp4"
+        :src="project.preview"
         autoplay
         loop
         muted

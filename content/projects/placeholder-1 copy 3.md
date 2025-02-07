@@ -2,7 +2,7 @@
 title: Placeholder 1
 date: 2025-01-01
 url: 936616912
-preview: /videos/placeholder.mp4
+preview: /videos/loop-8.mp4
 frames:
   - https://placehold.co/600x400
   - https://placehold.co/600x400
