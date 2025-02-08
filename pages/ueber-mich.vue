@@ -3,7 +3,7 @@
     <img
       src="/images/samu-wetter.webp"
       alt="Samu Wetter"
-      class="w-full h-[calc(100vh-80px-3rem)] object-cover"
+      class="w-full h-[calc(100vh-80px-3rem)] object-cover object-top"
     />
   </div>
   <div class="px-6 py-40 text-2xl bg-black text-white">

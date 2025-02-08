@@ -8,22 +8,22 @@
       allowfullscreen
     ></iframe>
     <div class="text-2xl p-6">
-      <div class="flex justify-between">
+      <div class="flex justify-between mb-4">
         <p class="font-bold">{{ data.title }}</p>
         <p class="font-bold float-right">{{ new Date(data.date).getFullYear() }}</p>
       </div>
       <div class="flex gap-x-6 gap-y-2 w-full mb-8 flex-wrap">
         <div v-for="credit in data.credits" class="w-[16.66%] min-w-[200px] max-w-[400px] grow">
           <p>{{ credit.title }}</p>
-          <p>{{ credit.name }}</p>
+          <p class="text-white/50">{{ credit.name }}</p>
         </div>
       </div>
       <div class="grid grid-cols-2 md:grid-cols-4 gap-1">
         <img
           v-for="(frame, index) in data.frames"
           :src="frame"
-          :alt="`Frame ${index + 1}`"
-          class="object-cover h-full"
+          :alt="`${data.title} – Frame ${index + 1}`"
+          class="object-cover h-full w-full"
         />
       </div>
     </div>
