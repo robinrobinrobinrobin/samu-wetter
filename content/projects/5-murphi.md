@@ -1,5 +1,6 @@
 ---
 title: Die Murpfi Maschine
+type: Commercial
 date: 2024-03-01
 url: 936616912
 preview: /videos/loop-2.mp4

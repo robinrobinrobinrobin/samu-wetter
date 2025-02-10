@@ -1,5 +1,6 @@
 ---
 title: Twint ist genau unser Spirit
+type: Commercial
 date: 2023-10-01
 url: 937861572
 preview: /videos/loop-8.mp4

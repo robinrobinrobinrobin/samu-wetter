@@ -1,5 +1,6 @@
 ---
 title: A Team
+type: Short Documentary
 date: 2024-01-01
 url: 1023250799
 preview: /videos/loop-10.mp4

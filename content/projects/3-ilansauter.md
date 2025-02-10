@@ -1,5 +1,6 @@
 ---
 title: Ilan Sauter
+type: Branded Content
 date: 2021-05-01
 url: 679296235
 preview: /videos/loop-5.mp4

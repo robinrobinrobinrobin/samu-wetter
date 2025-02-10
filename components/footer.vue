@@ -4,7 +4,7 @@
       <p>Hast du eine Frage an mich?</p>
       <p>Bist du interessiert an meiner Arbeit?</p>
       <a
-        href="mailto:hi@samuwetter.com"
+        href="mailto:hello@samuwetter.com"
         class="bg-black text-white px-12 pt-2 pb-1 inline-block uppercase rounded-lg font-bold mt-4 hover:scale-95 transition-all duration-300"
         >Kontakt</a
       >
@@ -27,7 +27,7 @@
       <div class="text-right">
         <p>
           <a
-            href="https://www.linkedin.com/in/samu-wetter-9b2b26a3"
+            href="https://www.instagram.com/samuwetter"
             target="_blank"
             class="hover:text-black/50 transition-colors"
             >Instagram</a
@@ -35,7 +35,7 @@
         </p>
         <p>
           <a
-            href="https://www.linkedin.com/in/samuwetter/"
+            href="https://www.linkedin.com/in/samu-wetter-9b2b26a3"
             target="_blank"
             class="hover:text-black/50 transition-colors"
             >LinkedIn</a

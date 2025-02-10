@@ -9,8 +9,8 @@
     ></iframe>
     <div class="text-2xl p-6">
       <div class="flex justify-between mb-4">
-        <p class="font-bold">{{ data.title }}</p>
-        <p class="font-bold float-right">{{ new Date(data.date).getFullYear() }}</p>
+        <p class="uppercase">{{ data.title }}</p>
+        <p class="float-right">{{ new Date(data.date).getFullYear() }}</p>
       </div>
       <div class="flex gap-x-6 gap-y-2 w-full mb-8 flex-wrap">
         <div v-for="credit in data.credits" class="w-[16.66%] min-w-[200px] max-w-[400px] grow">

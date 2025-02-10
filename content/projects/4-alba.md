@@ -1,5 +1,6 @@
 ---
 title: ALBA Delivery
+type: Commercial
 date: 2025-01-01
 url: 1054784755
 preview: /videos/loop-alba.mp4

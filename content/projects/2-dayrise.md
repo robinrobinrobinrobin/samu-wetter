@@ -1,5 +1,6 @@
 ---
 title: Day Rise
+type: Event Film
 date: 2023-01-01
 url: 906708283
 preview: /videos/loop-3.mp4

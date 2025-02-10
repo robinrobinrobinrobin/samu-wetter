@@ -18,7 +18,7 @@
           Emotionen wecken und motivieren.
         </p>
         <p>
-          … Als selbstständiger Videograf bin ich seit 2019 tätig. In den vergangenen Jahren war ich
+          Als selbstständiger Videograf bin ich seit 2019 tätig. In den vergangenen Jahren war ich
           für die Videoproduktionen der NIKIN AG verantwortlich. Daneben konnte zahlreiche eigene
           Projekte für verschiedene kleine und grosse Unternehmen realisieren. Seit 2024 bin ich
           Teil vom Atelier-Kollektiv BOMBYX MORI im Zürcher Niederdorf.

@@ -1,5 +1,6 @@
 ---
 title: Portrait Barbla Schmid
+type: Brand Film
 date: 2023-01-01
 url: 905129842
 preview: /videos/loop-barbla.mp4

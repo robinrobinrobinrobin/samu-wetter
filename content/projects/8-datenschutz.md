@@ -1,5 +1,6 @@
 ---
 title: Das ist Max
+type: Campaign
 date: 2022-07-01
 url: 905139856
 preview: /videos/loop-datenschutz.mp4
