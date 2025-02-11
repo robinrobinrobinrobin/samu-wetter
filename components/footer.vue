@@ -1,6 +1,6 @@
 <template>
-  <footer class="px-6 pt-12 pb-8 bg-cream text-black mt-auto">
-    <div class="text-center text-2xl mb-16 md:mb-0">
+  <footer class="px-4 sm:px-6 pt-12 pb-8 bg-cream text-black mt-auto text-lg lg:text-2xl">
+    <div class="text-center mb-16 md:mb-0">
       <p>Hast du eine Frage an mich?</p>
       <p>Bist du interessiert an meiner Arbeit?</p>
       <a
@@ -9,7 +9,7 @@
         >Kontakt</a
       >
     </div>
-    <div class="text-2xl flex justify-between">
+    <div class="flex justify-between">
       <div>
         <p>Samu Wetter</p>
         <p>Nägelihof 2 - 8001 Zurich</p>

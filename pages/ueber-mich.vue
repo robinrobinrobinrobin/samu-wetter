@@ -1,12 +1,12 @@
 <template>
-  <div class="p-6 text-2xl sticky top-[80px] -z-10">
+  <div class="px-4 sm:px-6 py-6 text-2xl sticky top-[80px] -z-10">
     <img
       src="/images/samu-wetter.webp"
       alt="Samu Wetter"
       class="w-full h-[calc(100vh-80px-3rem)] object-cover object-top"
     />
   </div>
-  <div class="px-6 py-40 text-2xl bg-black text-white">
+  <div class="px-4 sm:px-6 py-40 text-2xl bg-black text-white">
     <div class="md:max-w-7xl w-full md:w-4/5 mx-auto">
       <h1 class="uppercase text-6xl font-bold">Hello!</h1>
       <h2 class="font-bold uppercase">Ich bin Samu</h2>

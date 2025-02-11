@@ -1,13 +1,13 @@
 <template>
   <div v-if="data" class="bg-black text-white">
     <iframe
-      class="w-full h-[calc(100vh-80px)]"
+      class="w-full h-[calc(100vh-120px)] sm:h-[calc(100vh-120px)]"
       :src="`https://player.vimeo.com/video/${data.url}`"
       frameborder="0"
       allow="autoplay; fullscreen; picture-in-picture"
       allowfullscreen
     ></iframe>
-    <div class="text-2xl p-6">
+    <div class="text-2xl px-4 sm:px-6 py-6">
       <div class="flex justify-between mb-4">
         <p class="uppercase">{{ data.title }}</p>
         <p class="float-right">{{ new Date(data.date).getFullYear() }}</p>
@@ -18,7 +18,7 @@
           <p class="text-white/50">{{ credit.name }}</p>
         </div>
       </div>
-      <div class="grid grid-cols-2 md:grid-cols-4 gap-1">
+      <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-1">
         <img
           v-for="(frame, index) in data.frames"
           :src="frame"

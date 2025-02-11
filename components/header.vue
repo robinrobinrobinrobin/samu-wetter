@@ -1,6 +1,6 @@
 <template>
   <header
-    class="px-6 pt-6 pb-4 sticky top-0 backdrop-blur-lg flex justify-between items-center text-2xl sm:text-4xl font-bold z-50"
+    class="px-4 sm:px-6 pt-6 pb-4 sticky top-0 backdrop-blur-lg flex justify-between items-center text-lg sm:text-xl lg:text-4xl font-bold z-50"
     :class="
       route.path === '/' || route.path.includes('projects')
         ? 'bg-black/80 text-white'
@@ -8,7 +8,7 @@
     "
   >
     <NuxtLink to="/" class="uppercase hidden sm:block">Samu Wetter</NuxtLink>
-    <nav class="flex gap-6 ms-auto">
+    <nav class="flex gap-4 sm:gap-6 ms-auto">
       <NuxtLink
         to="/"
         class="uppercase"

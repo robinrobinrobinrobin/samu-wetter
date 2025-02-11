@@ -1,5 +1,7 @@
 <template>
-  <div class="p-6 text-2xl grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-12 mt-8 mb-32">
+  <div
+    class="px-4 sm:px-6 py-6 text-2xl grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-12 mt-8 mb-32"
+  >
     <div>
       <p class="text-5xl font-bold">01</p>
       <h2 class="font-bold uppercase">Hello!</h2>
