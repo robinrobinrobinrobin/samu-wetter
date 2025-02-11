@@ -6,6 +6,7 @@
         autoplay
         loop
         muted
+        playsinline
         class="group-hover:opacity-50 transition-opacity duration-300"
         @mouseover="handleMouseOver"
         @mouseleave="handleMouseLeave"
