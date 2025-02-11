@@ -1,7 +1,7 @@
 <template>
   <div v-if="data" class="bg-black text-white">
     <iframe
-      class="w-full h-[calc(100vh-120px)] sm:h-[calc(100vh-120px)]"
+      class="w-full h-[calc(100svh-120px)] sm:h-[calc(100svh-120px)]"
       :src="`https://player.vimeo.com/video/${data.url}`"
       frameborder="0"
       allow="autoplay; fullscreen; picture-in-picture"
