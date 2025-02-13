@@ -5,7 +5,7 @@
 html {
   font-family: "Suisse", sans-serif;
   /* font-family: "Alternate Gothic", sans-serif; */
-  text-rendering: geometricprecision;
+  /* text-rendering: geometricprecision; */
 }
 body {
   @apply bg-white;
