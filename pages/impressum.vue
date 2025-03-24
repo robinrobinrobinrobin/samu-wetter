@@ -5,7 +5,7 @@
     <p><a href="mailto:hello@samuwetter.com" target="_blank">hello@samuwetter.com</a></p>
     <br />
     <p><b>Webdesign & Texte</b></p>
-    <p>OMBYX MORI - Branding mit Tiefgang.</p>
+    <p>BOMBYX MORI - Branding mit Tiefgang.</p>
     <p>Nägelihof 2 – 8001 Zürich</p>
     <p><a href="mailto:hi@bombyxmori.ch" target="_blank">hi@bombyxmori.ch</a></p>
     <p><a href="https://bombyxmori.ch" target="_blank">bombyxmori.ch</a></p>
