@@ -12,7 +12,7 @@
     <div class="flex justify-between">
       <div>
         <p>Samu Wetter</p>
-        <p>Nägelihof 2 - 8001 Zurich</p>
+        <p>Englischviertelstrasse 25 – 8032 Zürich</p>
         <p>
           <a href="mailto:hello@samuwetter.com" class="hover:text-black/50 transition-colors"
             >hello@samuwetter.com</a

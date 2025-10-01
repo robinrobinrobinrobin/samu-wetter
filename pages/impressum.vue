@@ -1,17 +1,18 @@
 <template>
   <div class="p-6 text-2xl max-w-4xl">
     <p>Samu Wetter - Film</p>
-    <p>Fichtenstrasse 14 – 8032 Zürich</p>
+    <p>Englischviertelstrasse 25 – 8032 Zürich</p>
     <p><a href="mailto:hello@samuwetter.com" target="_blank">hello@samuwetter.com</a></p>
     <br />
     <p><b>Webdesign & Texte</b></p>
     <p>BOMBYX MORI - Branding mit Tiefgang.</p>
-    <p>Nägelihof 2 – 8001 Zürich</p>
+    <p>Englischviertelstrasse 25 – 8032 Zürich</p>
     <p><a href="mailto:hi@bombyxmori.ch" target="_blank">hi@bombyxmori.ch</a></p>
     <p><a href="https://bombyxmori.ch" target="_blank">bombyxmori.ch</a></p>
     <br />
     <p><b>Entwicklung</b></p>
     <p>Robin Hedinger</p>
+    <p>Englischviertelstrasse 25 – 8032 Zürich</p>
     <p><a href="https://robinhedinger.com" target="_blank">robinhedinger.com</a></p>
     <br />
     <p><b>Haftungsausschluss</b></p>
