@@ -19,8 +19,8 @@
           >
         </p>
         <p>
-          <a href="tel:+41783130946" class="hover:text-black/50 transition-colors"
-            >+41 (0)78 313 09 46</a
+          <a href="tel:+41765159779" class="hover:text-black/50 transition-colors"
+            >+41 (0)76 515 97 79</a
           >
         </p>
       </div>
